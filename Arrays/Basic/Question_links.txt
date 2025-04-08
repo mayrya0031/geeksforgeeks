@@ -9,4 +9,4 @@
 9 = https://www.geeksforgeeks.org/problems/implement-queue-using-array/1?page=1&category=Arrays&difficulty=Basic&sortBy=submissions
 10 = https://www.geeksforgeeks.org/problems/value-equal-to-index-value1330/1?page=1&category=Arrays&difficulty=Basic&sortBy=submissions
 11 = https://www.geeksforgeeks.org/problems/print-alternate-elements-of-an-array/1?page=1&category=Arrays&difficulty=Basic&sortBy=submissions
-12 = 
+12 = https://www.geeksforgeeks.org/problems/immediate-smaller-element1142/1?page=1&category=Arrays&difficulty=Basic&sortBy=submissions
