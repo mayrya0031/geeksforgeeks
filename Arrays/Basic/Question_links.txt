@@ -10,3 +10,12 @@
 10 = https://www.geeksforgeeks.org/problems/value-equal-to-index-value1330/1?page=1&category=Arrays&difficulty=Basic&sortBy=submissions
 11 = https://www.geeksforgeeks.org/problems/print-alternate-elements-of-an-array/1?page=1&category=Arrays&difficulty=Basic&sortBy=submissions
 12 = https://www.geeksforgeeks.org/problems/immediate-smaller-element1142/1?page=1&category=Arrays&difficulty=Basic&sortBy=submissions
+13 = https://www.geeksforgeeks.org/problems/palindromic-array-1587115620/1?page=1&category=Arrays&difficulty=Basic&sortBy=submissions
+14 = https://www.geeksforgeeks.org/problems/searching-a-number0324/1?page=1&category=Arrays&difficulty=Basic&sortBy=submissions
+15 = https://www.geeksforgeeks.org/problems/find-the-smallest-and-second-smallest-element-in-an-array3226/1?page=1&category=Arrays&difficulty=Basic&sortBy=submissions
+16 = https://www.geeksforgeeks.org/problems/sum-of-array2326/1?page=1&category=Arrays&difficulty=Basic&sortBy=submissions
+17 = https://www.geeksforgeeks.org/problems/binary-array-sorting-1587115620/1?page=1&category=Arrays&difficulty=Basic&sortBy=submissions
+18 = https://www.geeksforgeeks.org/problems/reversal-algorithm5340/1?page=1&category=Arrays&difficulty=Basic&sortBy=submissions
+19 = https://www.geeksforgeeks.org/problems/count-of-smaller-elements5947/1?page=1&category=Arrays&difficulty=Basic&sortBy=submissions
+20 = https://www.geeksforgeeks.org/problems/count-odd-even/1?page=1&category=Arrays&difficulty=Basic&sortBy=submissions
+21 = https://www.geeksforgeeks.org/problems/array-insert-at-index/1?page=2&category=Arrays&difficulty=Basic&sortBy=submissions
