@@ -1,0 +1,12 @@
+1 = https://www.geeksforgeeks.org/problems/peak-element/1?page=1&category=Arrays&difficulty=Basic&sortBy=submissions
+2 = https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1?page=1&category=Arrays&difficulty=Basic&sortBy=submissions
+3 = https://www.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1?page=1&category=Arrays&difficulty=Basic&sortBy=submissions
+4 = https://www.geeksforgeeks.org/problems/array-subset-of-another-array2317/1?page=1&category=Arrays&difficulty=Basic&sortBy=submissions
+5 = https://www.geeksforgeeks.org/problems/reverse-array-in-groups0255/1?page=1&category=Arrays&difficulty=Basic&sortBy=submissions
+6 = https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1?page=1&category=Arrays&difficulty=Basic&sortBy=submissions
+7 = https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1?page=1&category=Arrays&difficulty=Basic&sortBy=submissions
+8 = https://www.geeksforgeeks.org/problems/implement-stack-using-array/1?page=1&category=Arrays&difficulty=Basic&sortBy=submissions
+9 = https://www.geeksforgeeks.org/problems/implement-queue-using-array/1?page=1&category=Arrays&difficulty=Basic&sortBy=submissions
+10 = https://www.geeksforgeeks.org/problems/value-equal-to-index-value1330/1?page=1&category=Arrays&difficulty=Basic&sortBy=submissions
+11 = https://www.geeksforgeeks.org/problems/print-alternate-elements-of-an-array/1?page=1&category=Arrays&difficulty=Basic&sortBy=submissions
+12 = 
